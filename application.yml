@@ -1,2 +1,6 @@
-message: "Hello from GitHub Spring Cloud Config"
+spring.datasource.oracle.jdbc-url=jdbc:oracle:thin:@localhost:1521:xe
+spring.datasource.oracle.driver-class-name=oracle.jdbc.driver.OracleDriver
+spring.datasource.oracle.username=system
+spring.datasource.oracle.password=srinu123
+
 
